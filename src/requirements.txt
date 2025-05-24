@@ -1,0 +1,8 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+httpx==0.26.0
+python-dotenv==1.0.0
+# Uncomment and add these for a real translation model
+transformers==4.35.2
+torch==2.6.0
+sentencepiece==0.1.99
